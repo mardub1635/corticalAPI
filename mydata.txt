@@ -1,0 +1,8 @@
+[
+     { 
+        "text": "Good morning vietnam" 
+     },
+     {
+        "text": "Gustav Klimt was born in Baumgarten, near Vienna in Austria-Hungary, the second of seven children"
+     }
+]
